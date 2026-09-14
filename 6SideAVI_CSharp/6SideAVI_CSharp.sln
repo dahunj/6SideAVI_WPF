@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.36617.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6SideAVI_CSharp", "6SideAVI_CSharp\6SideAVI_CSharp.csproj", "{042DA3E5-A058-4376-9B47-7BCB53FBFB74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042DA3E5-A058-4376-9B47-7BCB53FBFB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042DA3E5-A058-4376-9B47-7BCB53FBFB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042DA3E5-A058-4376-9B47-7BCB53FBFB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042DA3E5-A058-4376-9B47-7BCB53FBFB74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44E7422C-3AA0-49CD-A547-A154A610586E}
+	EndGlobalSection
+EndGlobal
